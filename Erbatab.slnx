@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/api/" />
+  <Folder Name="/src/modules/" />
+  <Folder Name="/src/modules/identity/" />
+  <Folder Name="/src/modules/lojsm/" />
+</Solution>
