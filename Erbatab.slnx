@@ -1,7 +1,15 @@
 <Solution>
   <Folder Name="/src/" />
-  <Folder Name="/src/api/" />
+  <Folder Name="/src/api/">
+    <Project Path="src/api/Erbatab.API/Erbatab.API.csproj" Id="10e18dab-ec99-4d58-84ad-c2ef259a84f4" />
+  </Folder>
   <Folder Name="/src/modules/" />
   <Folder Name="/src/modules/identity/" />
+  <Folder Name="/src/modules/identity/core/">
+    <Project Path="src/modules/identity/core/Identity.Application/Identity.Application.csproj" Id="00565bc9-a203-497d-9c82-2922a8fade0b" />
+    <Project Path="src/modules/identity/core/Identity.Domain/Identity.Domain.csproj" Id="ec0ddce3-c0bb-4b71-84c6-554d50da0a51" />
+  </Folder>
+  <Folder Name="/src/modules/identity/infrastructure/" />
+  <Folder Name="/src/modules/identity/presentation/" />
   <Folder Name="/src/modules/lojsm/" />
 </Solution>
