@@ -1,6 +1,6 @@
 ﻿using Identity.Domain.Common;
 
-namespace Identity.Domain
+namespace Identity.Domain.Entities
 {
     public class User : BaseEntity
     {
@@ -8,5 +8,6 @@ namespace Identity.Domain
         public required string Email { get; set; }
         public required string HashedPassword { get; set; }
         public required string PhoneNumber { get; set; }
+        
     }
 }

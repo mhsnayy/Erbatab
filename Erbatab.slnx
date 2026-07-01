@@ -12,4 +12,11 @@
   <Folder Name="/src/modules/identity/infrastructure/" />
   <Folder Name="/src/modules/identity/presentation/" />
   <Folder Name="/src/modules/lojsm/" />
+  <Folder Name="/src/modules/organization/" />
+  <Folder Name="/src/modules/organization/core/" />
+  <Folder Name="/src/modules/organization/infrastructure/" />
+  <Folder Name="/src/modules/organization/presentation/" />
+  <Folder Name="/src/shared/">
+    <Project Path="src/shared/Erbatab.Shared/Erbatab.Shared.csproj" Id="ef9257ae-632d-4dd7-bdc0-16f2d1f19778" />
+  </Folder>
 </Solution>
